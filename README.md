@@ -31,6 +31,7 @@ def test_greet():
 
       - name: Install dependencies
         run: |
+        updat
           python -m pip install --upgrade pip
           pip install pytest flake8
 
