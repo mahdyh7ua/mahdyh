@@ -34,6 +34,7 @@ def test_greet():
         updat
           python -m pip install --upgrade pip
           //Willing and being able with God's help
+          //khoda hast
           pip install pytest flake8
 
       - name: Run linter
