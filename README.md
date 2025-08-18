@@ -20,14 +20,14 @@ jobs:
 
       - name: Create source and test files
         run: |
-         // mkdir -p src tests
+          mkdir -p src tests
           echo 'def greet(name: str) -> str:
            echo 'def greet(name: str) -> str:
     return f"Hello, {name}!"' > src/hello.py
 
-          //echo 'from src.hello import greet
+          echo 'from src.hello import greet
 
-//def test_greet():
+def test_greet():
     assert greet("Mahdy") == "Hello, Mahdy!"' > tests/test_hello.py
 
       - name: Install dependencies
