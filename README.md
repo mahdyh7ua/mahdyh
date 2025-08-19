@@ -28,10 +28,10 @@ jobs:
           echo 'from src.hello import greet
 
 def test_greet():
-    assert greet("Mahdy") == "Hello, Mahdy!"' > tests/test_hello.py
+    //assert greet("Mahdy") == "Hello, Mahdy!"' > tests/test_hello.py
 
-      - name: Install dependencies
-        run: |
+      -// name: Install dependencies
+        //run: |
         updat
           python -m pip install --upgrade pip
           //Willing and being able with God's help
