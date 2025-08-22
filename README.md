@@ -1,3 +1,46 @@
+name: Node CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Create source and test files
+        run: |
+          mkdir -p src tests
+          echo 'function greet(name) {
+  return `Hello, ${name}!`;
+}
+module.exports = { greet };' > src/hello.js
+
+          echo "const { greet } = require('../src/hello');
+test('greet should return correct message', () => {
+  expect(greet('Mahdy')).toBe('Hello, Mahdy!');
+});" > tests/hello.test.js
+
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install jest --save-dev
+
+      - name: Run tests
+        run: npx jest
+
+
 name: CI
 
 on:
