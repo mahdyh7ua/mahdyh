@@ -1,3 +1,34 @@
+name: Build Info Generator
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  generate-info:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate build info file
+        run: |
+          echo "Build Date: $(date -u)" > build_info.txt
+          echo "Commit SHA: $GITHUB_SHA" >> build_info.txt
+          echo "Branch: $GITHUB_REF_NAME" >> build_info.txt
+          echo "Actor: $GITHUB_ACTOR" >> build_info.txt
+
+      - name: Commit & push build info
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add build_info.txt
+          git commit -m "Update build info [skip ci]" || echo "No changes to commit"
+          git push
+
 name: Node CI
 
 on:
