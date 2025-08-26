@@ -92,21 +92,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Create source and test files
-        run: |
-          mkdir -p src tests
-          echo 'def greet(name: str) -> str:
-           echo 'def greet(name: str) -> str:
-    return f"Hello, {name}!"' > src/hello.py
-    /yadt bashe mishe 
-    natrs agar pat ham larzid ghadam aval bardar
-
-          //echo 'from src.hello import greet
-
-def test_greet():
-    assert greet("Mahdy") == "Hello, Mahdy!"' > tests/test_hello.py
-
-      name: Install dependencies
+    
         //run: |
         updat
           python -m pip install --upgrade pip
