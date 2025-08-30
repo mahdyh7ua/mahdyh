@@ -41,19 +41,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-      int a ,b
-      
-        with:
-          node-version: "20"
-
-      - name: Create source and test files
-        run: |
           mkdir -p src tests
           echo 'function greet(name) {
   return `Hello, ${name}!`;
