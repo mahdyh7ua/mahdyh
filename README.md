@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+hvgh 
+bhvhjg
+int 
+hvobvf4
+nbgg
 
       - name: Generate build info file
         run: |
