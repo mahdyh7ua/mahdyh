@@ -26,7 +26,9 @@ nbgg
           echo "Commit SHA: $GITHUB_SHA" >> build_info.txt
           echo "Branch: $GITHUB_REF_NAME" >> build_info.txt
           echo "Actor: $GITHUB_ACTOR" >> build_info.txt
-
+miresam be arezom 
+mahajerat mikonm 
+khanvadm mibarm
       - name: Commit & push build info
         run: |
           git config user.name "github-actions[bot]"
