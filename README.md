@@ -36,7 +36,7 @@ khanvadm mibarm
           git add build_info.txt
           git commit -m "Update build info [skip ci]" || echo "No changes to commit"
           git push
-
+kam nayari ha miresi bedast miyari
 name: Node CI
 
 on:
