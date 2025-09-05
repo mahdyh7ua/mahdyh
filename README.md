@@ -39,6 +39,11 @@ name: Node CI
 
 on:
   push:
+  jbjhb
+  gfcfgc
+  jhbhjbj
+  bbjhbj
+  
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
