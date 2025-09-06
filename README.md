@@ -43,7 +43,9 @@ on:
   gfcfgc
   jhbhjbj
   bbjhbj
-  
+  fvnfjdkvn
+  jcbdhjcvf
+  bnvjhfdbv
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
