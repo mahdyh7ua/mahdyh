@@ -8,8 +8,10 @@ on:
 
 jobs:
   generate-info:
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-latesvhnjkfdv\
+    dkjnfvjkfdxv
+    kjvnjkfd
+    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
