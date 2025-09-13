@@ -12,7 +12,10 @@ jobs:
     dkjnfvjkfdxv
     kjvnjkfd
     
-    steps:
+    steps:bcvhdfv
+    jvbjfdv
+    kfvhdfnv
+    
       - name: Checkout repo
         uses: actions/checkout@v4
 hvgh 
