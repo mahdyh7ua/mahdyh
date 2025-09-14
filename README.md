@@ -7,7 +7,9 @@ on:
     branches: [ main, master ]
 
 jobs:
-  generate-info:
+jcvbhxjcdbv
+vfkjcnxvkfd
+
     runs-on: ubuntu-latesvhnjkfdv\
     dkjnfvjkfdxv
     kjvnjkfd
