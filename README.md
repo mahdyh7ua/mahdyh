@@ -23,25 +23,12 @@ vfkjcnxvkfd
     
       - name: Checkout repo
         uses: actions/checkout@v4
-hvgh 
-bhvhjg
-int 
-hvobvf4
-nbgg
-vbhjfcdxbv
-jsbcvhjdxfcbv
-vnjkfdxv
-\
+hv
+kdjcnjksc
+vcnkfdcxnv
+njvjkdxfnv 
+kvfnmkfldv
 
-fdkvjnjkdxv
-kjfvdnfjkdxvn
-klfvkfdx
-
-      -// name: Generate build info file
-       / run: |
-       vgjvhjm
-          echo "Build Date: $(date -u)" > build_info.txt
-          echo "Commit S
 miresam be arezom 
 mahajerat mikonm 
 khanvadm mibarm
