@@ -1,32 +1,6 @@
 name: Build Info Generator
 
-on:
-  push:
-    branches: [ main, master ]
-  pull_request:
-    branches: [ main, master ]
-fbvhjdbv
-bvhfdxbvj
-kvnjkdvfc 
-dvnjkfd
-jobs:
-jcvbhxjcdbv
-vfkjcjvndfj\
-vjfdvb
-hvfjdk
 
-    runs-on: ubuntu-latesvhnjkfdv\
-    dkjnfvjkfdxv
-    kjvnjkfd
-    
-    steps:bcvhdfv
-    jvbjfdv
-    kfvhdfnv
-    
-      - name: Checkout repo
-        uses: actions/checkout@v4
-hv
-kdjcnjksc
 vcnkfdcxnv
 njvjkdxfnv 
 kvfnmkfldv
