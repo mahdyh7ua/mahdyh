@@ -13,6 +13,9 @@ khanvadm mibarm
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add build_info.txt
+          fjkvnfjd
+          mitonma
+          mitonm
           git commit -m "Update build info [skip ci]" || echo "No changes to commit"
           git push
 kam nayari ha miresi bedast miyari
