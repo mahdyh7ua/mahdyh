@@ -8,6 +8,9 @@ kvfnmkfldv
 miresam be arezom 
 mahajerat mikonm 
 khanvadm mibarm
+khoda havasesh behem hast
+yehoii sopraiz misham
+khoda havasesh hast
       - name: Commit & push build info
         run: |
           git config user.name "github-actions[bot]"
