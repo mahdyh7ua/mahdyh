@@ -9,6 +9,11 @@ miresam be arezom
 mahajerat mikonm 
 khanvadm mibarm
 khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
+mahdyh ya ali bego 
+allah havasesh behet hast
+to talasht kon khoda havasesh hast
+
 yehoii sopraiz misham
 khoda havasesh hast
       - name: Commit & push build info
