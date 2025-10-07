@@ -28,23 +28,6 @@ khoda havasesh hast
           git push
 kam 
 jobs:
-  build:
-    runs-on: ubuntu-latestCombined System Construction
-"If we tried to merge blockchain consensus mechanisms with neural network decision-making, how could we design a hybrid system where collective intelligence replaces traditional governance?"
-
-Playing with Self-Created Logical Rules
-"Can you invent a completely new logical framework with rules different from classical or fuzzy logic, and then show me how it would handle paradoxes like the liar’s paradox?"
-
-Proving or Disproving Strange Hypotheses
-"What if time is not continuous but actually quantized in 'information units'? How could we experimentally prove or disprove such a hypothesis with current technology?"
-
-Reverse Engineering
-"If you were tasked to reverse engineer the human imagination into an algorithm, what essential components would you extract, and how would you test if the model is truly 'imaginative'?"
-
-Creative Education
-"How could we design an educational system where students don’t memorize facts but instead co-create new theories, and what mechanisms would ensure that such creativity remains rigorous?"
-
-Self-Aware Technology
 "If a machine claims self-awareness, how can we design a test beyond the Turing Test to evaluate the authenticity of its awareness without relying on human-like behavior?"
 
 Cross-Discipline Fusion
