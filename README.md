@@ -10,6 +10,12 @@ mahajerat mikonm
 khanvadm mibarm
 khoda havasesh behem hast
 mahdyh ya ali bego kam nayar
+vghvjh
+vghvhj
+vghvgh
+ghgvjhv
+hvvgh
+
 mahdyh ya ali bego 
 allah havasesh behet hast
 to talasht kon khoda havasesh hast
