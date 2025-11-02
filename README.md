@@ -69,31 +69,7 @@ test('greet should return correct message', () => {
         run: |
           npm init -y
           npm install jest --save-dev
-laims self-awareness, how can we design a test beyond the Turing Test to evaluate the authenticity of its awareness without relying on human-like behavior?"
-
-Cross-Discipline Fusion
-"What new knowledge could emerge if we combined quantum mechanics, evolutionary biology, and cryptographic systems into a single unified model of adaptation?"
-
-Future Speculative Proof
-"Imagine a society where laws are enforced not by governments but by programmable, self-adjusting AI contracts. What logical or ethical paradoxes would inevitably arise, and how might they be resolved?"
-
-          mkdir -p src tests
-               run: |
-          npm init -y
-          npm install jest --save-dev
-laims self-awareness, how can we design a test beyond the Turing Test to evaluate the authenticity of its awareness without relying on human-like behavior?"
-
-Cross-Discipline Fusion
-"What new knowledge could emerge if we combined quantum mechanics, evolutionary biology, and cryptographic systems into a single unified model of adaptation?"
-
-Future Speculative Proof
-"Imagine a society where laws are enforced not by governments but by programmable, self-adjusting AI contracts. What logical or ethical paradoxes would inevitably arise, and how might they be resolved?"
-
-          mkdir -p src tests
-          echo 'function greet(name) {
-  return `Hello, ${name}!`;
-}
-module.exports = { greet };' > src/hello.js
+laims self-aware
 
           echo "const { greet } = require('../src/hello');
 test('greet should return correct message', () => {
