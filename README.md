@@ -47,7 +47,62 @@ khoda havasesh hast
       - name: Commit & push build info
         run: |
           git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"vcnkfdcxnv
+njvjkdxfnv 
+kvfnmkfldv
+
+miresam be arezom 
+mahajerat mikonm 
+khanvadm mibarm
+khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
+vghvjh
+vghvhj
+vghvgh
+ghgvjhv
+hvvgh
+
+mahdyh ya ali bego 
+allah havasesh behet hast
+to talasht kon khoda havasesh hastnkfdcxnv
+njvjkdxfnv 
+kvfnmkfldv
+
+miresam be arezom 
+mahajerat mikonm 
+khanvadm mibarm
+khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
+vghvjh
+vghvhj
+vghvgh
+ghgvjhv
+hvvgh
+
+mahdyh ya ali bego 
+allah havasesh behet hast
+to talasht kon khoda havasesh hast
+
+yehoii sopraiz misham
+khoda havasesh hast
+      - name: Commit & push build info
+        run: |
+
+yehoii sopraiz misham
+khoda havasesh hast
+      - name: Commit & push build info
+        run: |
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add build_info.txtfhfchggfh
+          fjkvnfjd
+          mitonma
+          mitonmitonm
+          git commit -m "Update build info [skip ci]" || echo "No changes to commit"
+          git pushtest beyond the Turing Test to evaluate the authenticity of its awareness without relying on human-like behavior?"
+Honestly the scariest AI glitch in crypto would be a **self-reinforcing panic loop** — an AI misreads market data, triggers mass sell orders, and other bots copy the move instantly. Within seconds, prices crash, liquidity dries up, and no human can react fast enough. It’s not just code breaking — it’s trust collapsing at machine speed. The only defense? **Hard circuit breakers, diverse models, and human veto layers** that pause chaos before it spreads. Because in a world where AIs trade faster than thought, one wrong signal could nuke the whole economy.
+vhjvhjg
+ghvhvh
           git add build_info.txtfhfchggfh
           fjkvnfjd
           mitonma
