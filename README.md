@@ -58,7 +58,56 @@ khoda havasesh behem hast
 mahdyh ya ali bego kam nayar
 vghvjh
 vghvhj
+vghvghhajerat mikonm 
+khanvadm mibarm
+khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
+vghvjh
+vghvhj
 vghvgh
+ghgvjhv
+hvvgh
+
+mahdyh ya ali bego 
+allah havasesh behet hast
+to talasht kon khoda havasesh hast
+
+yehoii sopraiz misham
+khoda havasesh hast
+      - name: Commit & push build info
+        run: |
+
+yehoii sopraiz misham
+khoda havasesh hast
+      - name: Commit & push build info
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"vcnkfdcxnv
+njvjkdxfnv 
+kvfnmkfldv
+
+miresam be arezom 
+mahajerat mikonm 
+khanvadm mibarm
+khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
+vghvjh
+vghvhj
+vghvgh
+ghgvjhv
+hvvgh
+
+mahdyh ya ali bego 
+allah havasesh behet hast
+to talasht kon khoda havasesh hastnkfdcxnv
+njvjkdxfnv 
+kvfnmkfldv
+
+miresam be arezom 
+mahajerat mikonm 
+khanvadm mibarm
+khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
 ghgvjhv
 hvvgh
 
