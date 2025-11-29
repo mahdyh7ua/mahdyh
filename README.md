@@ -87,7 +87,73 @@ khoda havasesh hast
 njvjkdxfnv 
 kvfnmkfldv
 
+miresam be arezom khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
+vghvjh
+vghvhj
+vghvgh
+ghgvjhv
+hvvgh
+
+mahdyh ya ali bego 
+allah havasesh behet hast
+to talasht kon khoda havasesh hastnkfdcxnvcnkfdcxnv
+njvjkdxfnv 
+kvfnmkfldv
+
 miresam be arezom 
+mahajerat mikonm 
+khanvadm mibarm
+khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
+vghvjh
+vghvhj
+vghvgh
+ghgvjhv
+hvvgh
+
+mahdyh ya ali bego 
+allah havasesh behet hast
+to talasht kon khoda havasesh hastnkfdcxnv
+njvjkdxfnv 
+kvfnmkfldv
+
+miresam be arezom 
+mahajerat mikonm 
+khanvadm mibarm
+khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
+vghvjh
+vghvhj
+vghvgh
+ghgvjhv
+hvvgh
+
+mahdyh ya ali bego 
+allah havasesh behet hast
+to talasht kon khoda havasesh hast
+
+yehoii sopraiz misham
+njvjkdxfnv 
+kvfnmkfldv
+
+miresam be arezom 
+mahajerat mikonm 
+khanvadm mibarm
+khoda havasesh behem hast
+mahdyh ya ali bego kam nayar
+vghvjh
+vghvhj
+vghvgh
+ghgvjhv
+hvvgh
+
+mahdyh ya ali bego 
+allah havasesh behet hast
+to talasht kon khoda havasesh hast
+
+yehoii sopraiz misham
+khoda havasesh hast
 mahajerat mikonm 
 khanvadm mibarm
 khoda havasesh behem hast
