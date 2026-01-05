@@ -1,32 +1,4 @@
 
-miresam be arezom 
-mahajerat mikonm 
-khanvad
-vghvgh
-ghgvjhv
-hvvgh
-
-mahdyh ya ali bego 
-allah havasesh behet hast
-to talasht kon khoda havasesh hastnkfdcxnvcnkfdcxnv
-njvjkdxfnv 
-kvfnmkfldv
-
-miresam be arezom name: Build Info Generatormiresam be arezom 
-mahajerat mikonm 
-khanvadm mibarm
-miresam be arezom 
-mahajerat mikonm 
-khanvad
-vghvgh
-ghgvjhv
-hvvgh
-
-mahdyh ya ali bego 
-allah havasesh behet hast
-to talasht kon khoda havasesh hastnkfdcxnvcnkfdcxnv
-njvjkdxfnv 
-kvfnmkfldv
 
 miresam be arezom name: Build Info Generatormiresam be arezom 
 mahajerat mikonm 
