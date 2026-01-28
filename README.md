@@ -2,34 +2,7 @@
 
 
 
-miresam be arezom 
-mahajerat mikonm 
-khanvadm mibarm
-khoda havasesh behem hast
-mahdyh ya ali bego kam nayar
-vghvjh
-vghvhj
-vghvgh
-ghgvjhv
-hvvgh
-
-vcnkfdcxnv
-njvjkdxfnv 
-kvfnmkfldv
-
-miresam be arezom 
-
-
-vcnkfdcxnv
-njvjkdxfnv 
-kvfnmkfldv
-
-miresam be arezom 
-mahajerat mikonm 
-khanvadm mibarm
-khoda havasesh behem hast
-mahdyh ya ali bego kam nayar
-vghvjh
+m
 vghvhj
 vghvgh
 ghgvjhv
