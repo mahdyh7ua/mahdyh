@@ -13,6 +13,9 @@ hvvgh
 
 mahdyh ya ali bego 
 allah havasesh behet hast
+خدایا شکرت در هر کاری وارد میشم سود خوبی کسب میکنم 
+از جایی که فکرشم نمیکنم خدا رابطه من و صابر درست میکنه 
+خدا انقدر قشتگ چیده که من و صابر عاشقانه زیر یک سقف باهم زندگی میکنیم
 to talasht kon khoda havasesh hastnkfdcxnvcnkfdcxnv
 njvjkdxfnv 
 kvfnmkfldv
