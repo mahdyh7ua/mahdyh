@@ -22,6 +22,7 @@ allah havasesh behet hast
  من توی هر کاری وارد میشم سود خوبی میگیرم
   به اراده خدا از جایی که فکرشم نمیکنم رابطه عاشقانه من و صابر شروع میشه و مال هم میشیم و زیر یک سقف میریم 
   من در هر کاری وارد میشم سود خوبی میگیرم
+  fgfdh
  
 to talasht kon khoda havasesh hastnkfdcxnvcnkfdcxnv
 njvjkdxfnv 
