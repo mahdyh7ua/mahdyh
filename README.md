@@ -43,6 +43,7 @@ mahdyh ya ali bego kam nayar
 vghvjh
 vghvhj
 vghvgh
+خدایا برای همه چی شگرت 
 ghgvjhv
 hvvgh
 
