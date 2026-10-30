@@ -27,6 +27,7 @@ allah havasesh behet hast
 to talasht kon khoda havasesh hastnkfdcxnvcnkfdcxnv
 njvjkdxfnv 
 kvfnmkfldv
+njnknn
 
 miresam be arezom name: Build Info Generator
 
