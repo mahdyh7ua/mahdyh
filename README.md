@@ -38,6 +38,8 @@ kvfnmkfldv
 
 miresam be arezom 
 mahajerat mikonm 
+خدیاا شکرت بیدارم کردی 
+حدایا شگرت حواست بهم هست 
 khanvadm mibarm
 khoda havasesh behem hast
 mahdyh ya ali bego kam nayar
