@@ -37,6 +37,7 @@ miresam be arezom name: Build Info Generator
 
 
 vcnkfdcxnv
+خدایا شکرت برای همه جی 
 njvjkdxfnv 
 kvfnmkfldv
 
