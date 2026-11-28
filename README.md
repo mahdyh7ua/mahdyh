@@ -47,6 +47,7 @@ mahajerat mikonm
 حدایا شگرت حواست بهم هست 
 khanvadm mibarm
 khoda havasesh behem hast
+خدایا شکرت خدایا از جایی که فکرشم نمیکنم رابطه عاشقانه منو صابر تو استارت بزن 
 mahdyh ya ali bego kam nayar
 vghvjh
 vghvhj
